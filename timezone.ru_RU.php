@@ -1,5 +1,5 @@
 <?php
-array(
+return array(
 	'Africa/Abidjan' => 'Африка/Абиджан',
 	'Africa/Accra' => 'Африка/Аккра',
 	'Africa/Addis_Ababa' => 'Африка/Аддис-Абеба',
